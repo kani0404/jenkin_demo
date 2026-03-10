@@ -45,8 +45,4 @@ public class DuplicateFinder {
         }
         return sb.toString();
     }
-
-    public static void main(String[] args) {
-        System.out.println("Duplicate File Detector Running");
-    }
 }
